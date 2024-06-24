@@ -29,8 +29,8 @@ To run the game, simply compile and run the `mastermind.java` file. The game wil
 This program uses ANSI color codes to colorize terminal output. These are widely supported in Unix-based terminals and Windows 10’s console, but may not display correctly in all environments. If you see unexpected characters in the output, try running the program in a different terminal or IDE. The same is true of the symbols used for the black and white feedback. The current implementation works on Eclipse.
 
 
-## Author
+## LICENSE
 
-This game was created by Yosef Birnbaum on June 7, 2024.
+MIT License
 
 Enjoy the game and good luck breaking the code!
